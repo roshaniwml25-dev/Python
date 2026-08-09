@@ -1,0 +1,9 @@
+fruits = {"apple", "banana", "cherry"}
+
+fruits.add("Mango")
+
+fruits.remove("banana")
+
+fruits.discard("orange")
+
+print("Updated Set", fruits)
